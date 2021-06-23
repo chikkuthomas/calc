@@ -16,8 +16,8 @@ button{
     border-radius: 5%;
     background-color:#d87093;    
 }
-button:hover{
-    color: white;
+input[type="button"]:hover{
+    color:white;
 }
 
 .layer{
