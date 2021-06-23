@@ -8,13 +8,13 @@ body{
     border: none;
 }
 button{
-    color: white;
+    color: black;
     width:53px;
     height: 30px;
     margin-top: 5px;
     border: none;
     border-radius: 5%;
-    background-color: rgb(248, 128, 85);
+    background-color:#F67B50;
 }
 
 .layer{
