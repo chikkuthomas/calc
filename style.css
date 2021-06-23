@@ -1,5 +1,5 @@
 body{
-    background-color: black;
+    background-color:black;
 }
 .inpt{
     width: 220px;
@@ -14,7 +14,7 @@ button{
     margin-top: 5px;
     border: none;
     border-radius: 5%;
-    background-color:#FBC490;
+    background-color:palevioletred;
 }
 
 .layer{
