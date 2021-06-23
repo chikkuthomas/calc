@@ -14,7 +14,10 @@ button{
     margin-top: 5px;
     border: none;
     border-radius: 5%;
-    background-color:#d87093;
+    background-color:#d87093;    
+}
+button:hover{
+    color: white;
 }
 
 .layer{
