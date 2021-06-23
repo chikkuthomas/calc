@@ -18,7 +18,7 @@ button{
 }
 input[type="button"]:hover{
     color:white;
-   /* background-color:white;*/
+   background-color:white;
 }
 
 .layer{
